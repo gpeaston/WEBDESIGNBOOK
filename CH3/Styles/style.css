@@ -1,6 +1,10 @@
-body{
-    background-color: aquamarine;
+html{
+    background-color:darkslategrey;
     padding: 10px;
+}
+
+body{
+    
 }
 
 img{
@@ -9,8 +13,10 @@ img{
 
 /* testing using # IDs for changing my CSS */
 #topHeader{
-    background-color: darkred;
-    color: forestgreen;
-    
-    
+    background-color: orange;
+    color: whitesmoke; 
+}
+
+.otherHeaders{
+    color: yellow
 }
