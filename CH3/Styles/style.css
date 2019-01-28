@@ -1,0 +1,16 @@
+body{
+    background-color: aquamarine;
+    padding: 10px;
+}
+
+img{
+    border-style:groove; 
+}
+
+/* testing using # IDs for changing my CSS */
+#topHeader{
+    background-color: darkred;
+    color: forestgreen;
+    
+    
+}
