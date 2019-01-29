@@ -1,13 +1,13 @@
 body {
-    background - color: red
+    background-color:darkorchid;
 }
 
 h1 {
-    background - color: blue;
+    background-color: blue;
     color: green
 }
 
 p {
-    background - color: orange;
+    background-color: orange;
     color: teal
 }

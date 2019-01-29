@@ -23,3 +23,9 @@ body {
 ol {
     color: aqua;
 }
+
+/* using an ID selector */
+
+#google_link {
+    background-color: aliceblue;
+}
