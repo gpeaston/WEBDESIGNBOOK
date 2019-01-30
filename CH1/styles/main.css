@@ -20,12 +20,31 @@ body {
     background-color: rgb(34, 34, 34);
 }
 
-ol {
-    color: aqua;
-}
 
 /* using an ID selector */
 
 #google_link {
     background-color: aliceblue;
+}
+
+/* using a class selector */
+.heading2 {
+    border-style: double;
+    border-color: chartreuse;
+    color: crimson
+}
+
+#list {
+    color:green; /* this colours the bullet points of my list */   
+}
+/*
+ul li:nth-child(4) {
+    background-color:chocolate;
+    padding: 10px;
+    margin: 25px;
+}*/
+ul li {
+    background-color:antiquewhite;
+    padding: 1px;
+    margin: 2px;
 }
