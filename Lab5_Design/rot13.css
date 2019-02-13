@@ -2,15 +2,19 @@ textarea {
     border: 1px solid #999999;
     width: 90%;
     margin 5px 0;
-    background-color: cornflowerblue;
-    color:darkslategray
+    background-color: yellow;
+    color: darkslategray;
 }
 
 background {
-    color: beige;
+    color:
 }
 
-h1{
+h1 {
     color: red;
     border-style: double;
+}
+
+body {
+    background-color:burlywood;
 }
